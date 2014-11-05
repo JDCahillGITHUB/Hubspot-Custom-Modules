@@ -1,4 +1,4 @@
-Hubspot-Custom-Modules
+Hubspot Custom Modules
 ======================
 
 Custom Modules for Hubspot
